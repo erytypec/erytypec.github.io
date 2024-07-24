@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erytypec.github.io/sitemap.html.gz
+Sitemap: https://erytypec.github.io/app/sitemap.html.gz
+Sitemap: https://erytypec.github.io/assets/sitemap.html.gz
+Sitemap: https://erytypec.github.io/css/sitemap.html.gz
+Sitemap: https://erytypec.github.io/includes/sitemap.html.gz
+Sitemap: https://erytypec.github.io/item/sitemap.html.gz
+Sitemap: https://erytypec.github.io/src/sitemap.html.gz
